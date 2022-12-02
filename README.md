@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source Contribution
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 [raj36speaks](https://twitter.com/raj36speaks)
+- 📫 [(https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 <!---
 raj36git/raj36git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
