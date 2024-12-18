@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Raj Yadav</h1>
+<h1 align="center">Hii 👋, I'm Raj Yadav</h1>
 <h3 align="center">A passionate Full-Stack developer from Nepal</h3>
+![readme-header](https://github.com/user-attachments/assets/55771dea-19e5-4ad2-beab-d9cf2884e998)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj36git&label=Profile%20views&color=0e75b6&style=flat" alt="raj36git" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj36git" alt="raj36git" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_rajyadav63" target="blank"><img src="https://img.shields.io/twitter/follow/_rajyadav63?logo=twitter&style=for-the-badge" alt="_rajyadav63" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -181,6 +177,12 @@
         />
       </a>
     </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj36git&label=Profile%20views&color=0e75b6&style=flat" alt="raj36git" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj36git" alt="raj36git" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/_rajyadav63" target="blank"><img src="https://img.shields.io/twitter/follow/_rajyadav63?logo=twitter&style=for-the-badge" alt="_rajyadav63" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj36git&show_icons=true&locale=en&layout=compact" alt="raj36git" /></p>
 
