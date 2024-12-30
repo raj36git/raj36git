@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm Raj Yadav</h1>
+<h1 align="center">Hii 👋, I'm Raj</h1>
 <h3 align="center">A passionate Full-Stack developer from Nepal</h3>
 
 ![readme-header](https://github.com/user-attachments/assets/d0231970-b594-4a47-a991-221924d1a3fa)
@@ -178,5 +178,7 @@
         />
       </a>
     </p>
+    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj36git&show_icons=true&locale=en&layout=compact" alt="raj36git" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj36git&show_icons=true&locale=en" alt="raj36git" /></p>
